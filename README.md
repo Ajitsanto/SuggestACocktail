@@ -28,7 +28,9 @@ This application is a command line application that will get the ingredients tha
 
 Below are the few examples and sample inputs that can be used to check if the cocktails are being displayed, 
 Give a comma separated list of ingredients:Gin,Water,Carbonated water,Lemon,Lemon peel,Powdered sugar
+
 Gin Fizz
+
 Gin Toddy
 
 Application: 
